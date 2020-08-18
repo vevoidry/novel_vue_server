@@ -1,2 +1,24 @@
-# novel_vue_server
-小说网站，基于vue3.0的前后端分离项目，这里是前端代码的后台部分的代码
+# novel610
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
